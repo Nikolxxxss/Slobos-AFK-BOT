@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nkserver.aternos.me:49084",
+    "ip": "nkserver.aternos.me",
     "port": 49084,
     "version": "1.21.1"
   },
